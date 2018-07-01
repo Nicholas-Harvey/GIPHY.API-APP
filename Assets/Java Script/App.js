@@ -27,7 +27,7 @@ $(document).ready(function () {
                 console.log("topic button pressed!")
                 var APIKey = "hX67Cfn42uae7k45GuGSLl7E5aG16LR2";
 
-                var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + q + "&api_key=" +
+                var queryURL = "http://api.giphy.com/v1/gifs/search?q=" + q + "&api_key=" +
                     APIKey +
                     "&limit=10";
 
