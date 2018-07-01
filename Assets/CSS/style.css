@@ -1,0 +1,239 @@
+body {
+  /* background-color: #065563; */
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_kaWhZ8FoQAsA_7OisXTj-xupI1TfTtq6yozczVz09h98ecD);
+  background-color: #0088cc;
+  color: yellow;
+  text-align: center;
+  color: black;
+}
+.jumbotron {
+  background-image: url(https://static.vecteezy.com/system/resources/previews/000/100/314/non_2x/trendy-abstract-geometric-pattern-background-vector.jpg);
+  margin: 0px; 
+  padding: 0px;
+  border: 0px;
+  font-size: 13px;
+  font-weight: bold;
+  color: brown;
+  border-bottom-width: 6px;
+  border-bottom-color: brown;
+  border-bottom-style: solid; 
+
+}
+
+#sport-input{
+  width: 300px;
+}
+
+.display-4 {
+  font-size: 20px;
+  font-weight: 0%;
+}
+
+p {
+  font-size: 20px;
+  font-weight: 0%;
+}
+
+.buttons {
+  border-color: darkgreen;
+  margin: 4px; 
+  color: green;
+  font-size: 15px;
+}
+
+button {
+  background-color: lightbrown;
+  /* font-weight: bold; */
+  color: darkgreen;
+  border-color: darkgreen;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20%;
+}
+
+#sport-input {
+  margin-bottom: 13px;
+  padding-bottom: 0px;
+  border: none;
+}
+
+.gifDiv {
+  height: 15%;
+}
+
+hr {
+  width: 50%;
+  height: 0px;
+}
+@media screen and (max-width: 980px){
+  body {
+      /* background-color: #065563; */
+      background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_kaWhZ8FoQAsA_7OisXTj-xupI1TfTtq6yozczVz09h98ecD);
+      background-color: #0088cc;
+      color: yellow;
+      text-align: center;
+      color: black;
+  }
+  .jumbotron {
+      background-image: url(https://static.vecteezy.com/system/resources/previews/000/100/314/non_2x/trendy-abstract-geometric-pattern-background-vector.jpg);
+      margin: 0px; 
+      padding: 0px;
+      border: 0px;
+      font-size: 13px;
+      font-weight: bold;
+      color: brown;
+      border-bottom-width: 6px;
+      border-bottom-color: brown;
+      border-bottom-style: solid; 
+  
+  }
+  
+  #sport-input{
+      width: 300px;
+  }
+  
+  .display-4 {
+      font-size: 20px;
+      font-weight: 0%;
+  }
+  
+  p {
+      font-size: 20px;
+      font-weight: 0%;
+  }
+  
+  .buttons {
+  border-color: yellow;
+  margin: 4px;
+}
+        
+  }
+  
+  #sport-input {
+      margin-bottom: 13px;
+      padding-bottom: 0px;
+      border: none;
+  }
+  
+  .gifDiv {
+      height: 15%;
+  }
+  
+  hr {
+      width: 50%;
+      height: 0px;
+  }
+@media screen and (max-width: 780px){
+  body {
+      /* background-color: #065563; */
+      background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_kaWhZ8FoQAsA_7OisXTj-xupI1TfTtq6yozczVz09h98ecD);
+      background-color: #0088cc;
+      color: yellow;
+      text-align: center;
+      color: black;
+  }
+  .jumbotron {
+      background-image: url(https://static.vecteezy.com/system/resources/previews/000/100/314/non_2x/trendy-abstract-geometric-pattern-background-vector.jpg);
+      margin: 0px; 
+      padding: 0px;
+      border: 0px;
+      font-size: 13px;
+      font-weight: bold;
+      color: brown;
+      border-bottom-width: 6px;
+      border-bottom-color: brown;
+      border-bottom-style: solid; 
+  
+  }
+  
+  #sport-input{
+      width: 300px;
+  }
+  
+  .display-4 {
+      font-size: 20px;
+      font-weight: 0%;
+  }
+  
+  p {
+      font-size: 20px;
+      font-weight: 0%;
+  }
+  
+  .buttons {
+      border-color: yellow;
+      margin: 4px;
+  }
+  
+  #sport-input {
+      margin-bottom: 13px;
+      padding-bottom: 0px;
+      border: none;
+  }
+  
+  .gifDiv {
+      height: 15%;
+  }
+  
+  hr {
+      width: 50%;
+      height: 0px;
+  }
+
+@media screen and (max-width: 640px){
+  body {
+      /* background-color: #065563; */
+      background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_kaWhZ8FoQAsA_7OisXTj-xupI1TfTtq6yozczVz09h98ecD);
+      background-color: #0088cc;
+      color: yellow;
+      text-align: center;
+      color: black;
+  }
+  .jumbotron {
+      background-image: url(https://static.vecteezy.com/system/resources/previews/000/100/314/non_2x/trendy-abstract-geometric-pattern-background-vector.jpg);
+      margin: 0px; 
+      padding: 0px;
+      border: 0px;
+      font-size: 13px;
+      font-weight: bold;
+      color: brown;
+      border-bottom-width: 6px;
+      border-bottom-color: brown;
+      border-bottom-style: solid; 
+  
+  }
+  
+  #sport-input{
+      width: 300px;
+  }
+  
+  .display-4 {
+      font-size: 20px;
+      font-weight: 0%;
+  }
+  
+  p {
+      font-size: 20px;
+      font-weight: 0%;
+  }
+  
+  .buttons {
+      border-color: yellow;
+      margin: 4px;
+  }
+  
+  #sport-input {
+      margin-bottom: 13px;
+      padding-bottom: 0px;
+      border: none;
+  }
+  
+  .gifDiv {
+      height: 15%;
+  }
+  
+  hr {
+      width: 50%;
+      height: 0px;
+  }
+}
